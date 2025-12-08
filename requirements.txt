@@ -3,3 +3,7 @@ pandas
 numpy
 tensorflow
 scikit-learn
+pymongo
+certifi
+
+-e .
