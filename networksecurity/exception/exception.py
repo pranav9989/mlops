@@ -1,4 +1,4 @@
-import exception
+
 import sys
 from networksecurity.logging import logger
 
